@@ -1,15 +1,11 @@
+#zafer-in-muusl
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-  <link rel="stylesheet" href="../test.css"/>
-
-</head>
-    <style>
+ <style>
   .name {
     background-color: black;
     color: white;
@@ -58,6 +54,11 @@ border:1pt rgb(48, 47, 49) groove;
     color: white;
    }
   </style>
+
+  <link rel="stylesheet" href="../test.css"/>
+
+</head>
+   
   
 <body>
 
