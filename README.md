@@ -14,7 +14,7 @@
     margin-left: 2pt;
 }
 
-.momen {
+.zafer {
 border:1pt rgb(48, 47, 49) groove;
          border-radius: 18pt;
             border-left-width : 5.6cm;
@@ -60,7 +60,7 @@ border:1pt rgb(48, 47, 49) groove;
   
 <body>
 
-    <h1 class="name momen">home page</h1>
+    <h1 class="name zafer">home page</h1>
 
   <div class="cor">
     <div class="cor2">Chicken</div>
